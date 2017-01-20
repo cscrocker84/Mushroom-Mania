@@ -1,0 +1,18 @@
+{
+  "name": "Mushroom-Mania",
+  "homepage": "https://github.com/cscrocker84/Mushroom-Mania",
+  "authors": [
+    "Charlie Crocker <cscrocker84@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ]
+}
